@@ -1,4 +1,4 @@
-### RealEstate
+# RealEstate
 
 RealEstate- Aplicación para manejo de propiedades en una inmobiliaria
 Repositorio que contiene una app desarrollada en Vue.js que permite consultar la información de inmuebles. La aplicación se conecta a una API desarrollada en .NET, la cual obtiene los datos necesarios desde una base de datos SQL Server que contiene las siguientes tablas:
@@ -6,13 +6,13 @@ Repositorio que contiene una app desarrollada en Vue.js que permite consultar la
 Inmuenles: Almacena la informacion pricipal de los inmuebles.
 Imagenes: Las distintas imagenes que posee cada inmueble. 
 ---
-## La Estructura del Proyecto
+### La Estructura del Proyecto
 El proyecto se organiza de la siguiente manera:
 ---
 /RealEstate-Api: Contiene el código fuente de la API desarrollada en .NET.
 /RealAstateApp: Contiene la aplicación reslizada en Vue.js.
 ---
-## Configuración y Ejecución
+### Configuración y Ejecución
 IMPORTANTE
 -Importante. Debe previamente correr el script de base de datos, adjuntado (DBRealSQL.sql). 
 -El Fronted se encuentra en el respositorio: https://github.com/MarMerc/Challenge24.git
