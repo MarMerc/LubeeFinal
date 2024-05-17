@@ -1,4 +1,6 @@
-README - Aplicación para manejo de propiedades en una inmobiliaria
+RealEstate
+
+RealEstate- Aplicación para manejo de propiedades en una inmobiliaria
 Repositorio que contiene una app desarrollada en Vue.js que permite consultar la información de inmuebles. La aplicación se conecta a una API desarrollada en .NET, la cual obtiene los datos necesarios desde una base de datos SQL Server que contiene las siguientes tablas:
 
 Inmuenles: Almacena la informacion pricipal de los inmuebles.
